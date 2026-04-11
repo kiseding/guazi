@@ -37,6 +37,15 @@
 
     "sites": [
         {
+            "key": "豆瓣",
+            "name": "👒┃豆瓣┃推荐┃❤驸马影视 随心观影❤",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "./lib/douban.json"
+        },
+        {
             "key": "瓜子影视",
             "name": "🍉┃瓜子┃影视",
             "type": 3,
@@ -45,7 +54,6 @@
             "quickSearch": 0,
             "changeable": 1
         }
-
     ],
     "parses": [
         {
